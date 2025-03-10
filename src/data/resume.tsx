@@ -9,7 +9,7 @@ export const DATA = {
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description: "Software Engineer",
   summary: `I am a experienced software engineer with expertise in React, Angular, TailwindCSS, Node.js and more. During my tenure at Monocept, I contributed to projects in the health and vehicle insurance sectors, focusing on improving agent productivity and client satisfaction through intuitive design and streamlined workflows. I successfully integrated payment gateways, implemented secure authentication mechanisms, and optimized application performance—achieving sub-1-second page load times and reducing build sizes by 42.86%. My work has been recognized for significantly enhancing user experience and productivity. I am passionate about delivering high-quality solutions that drive business transformation.`,
-  avatarUrl: "/me.jpg",
+  avatarUrl: "https://pub-4ce10aaa03354f37a800cef958f066d9.r2.dev/me.jpg",
   skills: [
     "React",
     "Next.js",
@@ -72,7 +72,8 @@ export const DATA = {
       badges: [],
       location: "Remote",
       title: "Software Engineer",
-      logoUrl: "/monocept.png",
+      logoUrl:
+        "https://pub-4ce10aaa03354f37a800cef958f066d9.r2.dev/monocept.png",
       start: "Oct 2022",
       end: "Nov 2023",
       description:
@@ -84,7 +85,8 @@ export const DATA = {
       badges: [],
       location: "Remote",
       title: "Software Engineer Intern",
-      logoUrl: "/monocept.png",
+      logoUrl:
+        "https://pub-4ce10aaa03354f37a800cef958f066d9.r2.dev/monocept.png",
       start: "July 2022",
       end: "Sept 2022",
       description:
@@ -97,7 +99,7 @@ export const DATA = {
         "BLDEA's V. P. Dr. P. G. Halakatti College of Engineering and Technology",
       href: "https://www.bldeacet.ac.in",
       degree: "Bachelor of Engineering in Computer Science And Engineering",
-      logoUrl: "/bldea.jpg",
+      logoUrl: "https://pub-4ce10aaa03354f37a800cef958f066d9.r2.dev/bldea.jpg",
       start: "2018",
       end: "2022",
     },
@@ -130,7 +132,7 @@ export const DATA = {
       ],
       image: "",
       video:
-        "https://github-production-user-asset-6210df.s3.amazonaws.com/77923449/420957399-ee038fd1-eabc-403c-aac0-213d391b5938.webm?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250310%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250310T143821Z&X-Amz-Expires=300&X-Amz-Signature=0d9841ce4bef2e1343d953317fab29769eeae777f587c942e3314d910908837f&X-Amz-SignedHeaders=host",
+        "https://pub-4ce10aaa03354f37a800cef958f066d9.r2.dev/incident.webm",
     },
     {
       title: "Globetrotter : The Ultimate Destination Guessing Game ✨",
@@ -158,8 +160,7 @@ export const DATA = {
         },
       ],
       image: "",
-      video:
-        "https://github-production-user-asset-6210df.s3.amazonaws.com/77923449/420957456-4a06a95f-b486-42aa-a620-16df8ace09ea.webm?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250310%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250310T143816Z&X-Amz-Expires=300&X-Amz-Signature=a485a1be03bd021e369a9f0a8debf23c14eabeaa25221fef1b9403336be22334&X-Amz-SignedHeaders=host",
+      video: "https://pub-4ce10aaa03354f37a800cef958f066d9.r2.dev/headout.webm",
     },
   ],
   hackathons: [],
