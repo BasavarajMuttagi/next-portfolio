@@ -5,8 +5,8 @@ import { DATA } from "@/data/resume";
 import { cn } from "@/lib/utils";
 import type { Metadata } from "next";
 import { Inter as FontSans } from "next/font/google";
+import Script from "next/script";
 import "./globals.css";
-
 const fontSans = FontSans({
   subsets: ["latin"],
   variable: "--font-sans",
@@ -67,6 +67,11 @@ export default function RootLayout({
             <Navbar />
           </TooltipProvider>
         </ThemeProvider>
+        <Script
+          defer
+          src="https://static.cloudflareinsights.com/beacon.min.js"
+          data-cf-beacon='{"token": "1f2beb4c235b492e9c5aee43dcbd0307"}'
+        />
       </body>
     </html>
   );

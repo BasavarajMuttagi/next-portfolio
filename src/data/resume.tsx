@@ -17,6 +17,7 @@ export const DATA = {
     "Zustand",
     "Redux",
     "Typescript",
+    "TanStack Query",
     "Python",
     "Postgres",
     "Node.js",
